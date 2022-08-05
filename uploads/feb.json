@@ -1,0 +1,114 @@
+[
+{
+    "_id" : "Germany",
+    "count" : 2.0
+},
+{
+    "_id" : "Syria",
+    "count" : 5.0
+},
+{
+    "_id" : null,
+    "count" : 43.0
+},
+{
+    "_id" : "Venezuela",
+    "count" : 1.0
+},
+{
+    "_id" : "Israel",
+    "count" : 3.0
+},
+{
+    "_id" : "Morocco",
+    "count" : 9.0
+},
+{
+    "_id" : "United Arab Emirates",
+    "count" : 7.0
+},
+{
+    "_id" : "United Kingdom",
+    "count" : 1.0
+},
+{
+    "_id" : "Algeria",
+    "count" : 12.0
+},
+{
+    "_id" : "Egypt",
+    "count" : 467.0
+},
+{
+    "_id" : "Yemen",
+    "count" : 2.0
+},
+{
+    "_id" : "Switzerland",
+    "count" : 1.0
+},
+{
+    "_id" : "Malaysia",
+    "count" : 2.0
+},
+{
+    "_id" : "Sweden",
+    "count" : 1.0
+},
+{
+    "_id" : "Kuwait",
+    "count" : 6.0
+},
+{
+    "_id" : "Qatar",
+    "count" : 1.0
+},
+{
+    "_id" : "Oman",
+    "count" : 5.0
+},
+{
+    "_id" : "Libya",
+    "count" : 2.0
+},
+{
+    "_id" : "Iraq",
+    "count" : 27.0
+},
+{
+    "_id" : "Jordan",
+    "count" : 17.0
+},
+{
+    "_id" : "Italy",
+    "count" : 1.0
+},
+{
+    "_id" : "Lebanon",
+    "count" : 10.0
+},
+{
+    "_id" : "Tunisia",
+    "count" : 6.0
+},
+{
+    "_id" : "Bahrain",
+    "count" : 2.0
+},
+{
+    "_id" : "Saudi Arabia",
+    "count" : 64.0
+},
+{
+    "_id" : "Pakistan",
+    "count" : 1.0
+},
+{
+    "_id" : "Croatia",
+    "count" : 1.0
+},
+{
+    "_id" : "Turkey",
+    "count" : 11.0
+}
+]
